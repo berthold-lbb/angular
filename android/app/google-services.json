@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "251593420296",
+    "project_id": "exchange-33da1",
+    "storage_bucket": "exchange-33da1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251593420296:android:5422f6ef7024cbc279abbd",
+        "android_client_info": {
+          "package_name": "com.lbb.poc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAutNfzFHtfXcEwxO8SXUwF6eZcZska88c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
